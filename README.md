@@ -22,7 +22,7 @@ multiple   - used if you have multiple video to download and want them as sepera
 
 merged     - used if you have multiple video to download and want them one single merged audio file
 
-2)After choosing your required format run the python file anf fill in the links as specified 
+2)After choosing your required format run the python file and fill in the links as specified 
 
 3) You will be able to see the downloaded file in the list of files on the left tab in vs code.
 
