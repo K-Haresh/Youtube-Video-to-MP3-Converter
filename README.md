@@ -1,4 +1,4 @@
-YOUTUBE VIDEO TO MP3 CONVERTER:
+YOUTUBE VIDEO TO MP3 CONVERTER USING TKINTER:
 
 This Python script allows users to convert YouTube videos to MP3 audio files. It utilizes the Pytube and MoviePy libraries for YouTube video downloading and audio extraction, providing a simple and user-friendly interface.
 
